@@ -1,10 +1,11 @@
-body{
-  margin: 60px auto;
+body { 
+  margin: 60px auto; 
   width: 70%; 
   background-image: url('/images/background.jpg');
-  background-position: center;
+  background-position: fill;
   background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: no-repeat
+}
   
 }
 h1{
